@@ -1,0 +1,15 @@
+{
+	"name": "TestADF413",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e7d34754-9e45-4011-addd-31ae63f74aba",
+		"tenantId": "521f7006-33af-4096-aa3f-1f02e1fbc179"
+	}
+}
